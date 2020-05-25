@@ -540,7 +540,7 @@ footer button:focus {
         background-color: #F4F4F4;
     }
     li:active .sub-menu,
-    li:hover .sub-menu
+    li:hover .sub-menu,
     li:focus .sub-menu,
     li:focus-within .sub-menu {
         display: block;
